@@ -1,0 +1,52 @@
+
+ .main{
+    width:1130px;
+    max-width:95%;
+margin:0 auto;
+display:flex;
+align-items:center;
+justify-content:space-around;
+}
+ .main img{
+    height:auto;
+    width:430px;
+}
+.about-text{
+    width:550px;
+}
+
+.about-text h2{
+    color:Black;
+    font-size:65px;
+    text-transform:capitalize;
+    margin-bottom: 20px;
+}
+.about-text h5{
+    color:Brown;
+    letter-spacing: 2px;
+    font-size:22px;
+    margin-bottom:25px;
+    text-transform:capitalize;
+ }
+.about-text p {
+    color:rgb(56, 56, 196);
+    letter-spacing:1px;
+    line-height: 28px;
+    font-size: 18px;
+    margin-bottom: 45px;
+}
+/* button{
+   background-color: #f9004d;
+   color:white;
+   text-decoration: none;
+   border:2 px solid transparent;
+   font-weight: bold;
+   padding:10px 20px;
+   border-radius: 30px;
+   transition: .4s;
+}
+button:hover{
+    background-color: transparent;
+    border:2px solid #f9004d;
+    cursor:pointer;
+} */
